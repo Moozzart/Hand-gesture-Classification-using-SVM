@@ -1,4 +1,5 @@
 # Hand-gesture-Classification-using-SVM
+(The dataset can be obtained in the moodle --> MLFA course --> Hand gesture Classification using SVM)
 There is a dataset of sign language using hand gestures. So there are 10 classes each classes having 3000 images. All the images are in RGB format. You need to perform the following steps.   
 
 1. Convert the image into binary image. From each class in the dataset use 70% for training and 30% for testing.  
