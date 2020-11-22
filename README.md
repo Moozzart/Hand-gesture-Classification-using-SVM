@@ -11,3 +11,6 @@ There is a dataset of sign language using hand gestures. So there are 10 classes
 4. Apply grid search for hyper-parameter tuning.(eg: kernel, C, gamma).  
 
 5. Report the model with best accuracy. If Memory error is coming you can rescale the image as per requirement.
+
+(Used PCA to get 20 featuress, along with 2 more features(skewness and sum of total white pixels of an image))
+Results obtained were crazy, see the notebook for the results
